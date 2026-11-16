@@ -3,6 +3,11 @@
 App web que usa un algoritmo genético para elegir qué programas de igualdad de género financiar con un presupuesto limitado.
 Curso Sistemas Inteligentes · UNMSM · FISI · Grupo 4 · 2026-II.
 
+- **Aplicación:** https://proyecto-de-algoritmo-genetico-grup.vercel.app
+- **Documentación de la API:** https://proyecto-de-algoritmo-genetico-grup.vercel.app/api/py/docs
+
+Desplegada en Vercel (plan Hobby): cada push a `main` publica una nueva versión.
+
 ## Requisitos
 - Node.js 20 o superior
 - Python 3.12

@@ -92,6 +92,7 @@ Solo "Rural" cuenta para R3; "Mixto" no cuenta.
 - [x] 6 Pantalla "Ejecutar AG"
 - [x] 7 Pantalla "Comparar corridas"
 - [x] 8 Pulido y "Acerca de"
-- [ ] 9 Despliegue en Vercel
+- [x] 9 Despliegue en Vercel
 - [ ] 10 Auditoría final y resultados para el informe
-- URL de producción: _pendiente_
+- URL de producción: https://proyecto-de-algoritmo-genetico-grup.vercel.app
+- Repositorio: https://github.com/Luis-Geronimo-Aceituno-Huaman/Proyecto-de-Algoritmo-Genetico---Grupo-4 (Vercel despliega cada push a `main`)
